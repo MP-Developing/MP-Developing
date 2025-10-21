@@ -1,5 +1,5 @@
 # MP Dev  
-![Instagram Logo](https://img.icons8.com/ios-filled/24/000000/instagram-new.png) [Instagram: @mpdev](https://www.instagram.com/mpdev)
+[Instagram: @mpdev](https://www.instagram.com/mpdev)
 
 ---
 
